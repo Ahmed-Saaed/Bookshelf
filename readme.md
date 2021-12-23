@@ -2,7 +2,7 @@
 
 ---
 
-a bookstore where you can sign as a reader or an author and add your own book or add one.
+a bookstore where you can sign as a reader or an author and add your own book or buy one.
 
 ## techniqal
 
